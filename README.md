@@ -293,8 +293,6 @@ Validate the user account and source IP address, terminate unauthorized RDP sess
 
 ---
 
-## Detection Opportunities
-
 ### SIEM Detection
 
 Generate alerts for:
