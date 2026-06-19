@@ -318,10 +318,6 @@ Hunt for:
 
 ---
 
-```
-
----
-
 ## Key Findings
 
 - Verified RDP listener availability on TCP port 3389.
